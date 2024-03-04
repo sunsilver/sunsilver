@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00)
 ### Hi there 👋
 
 <!--
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunsilver)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunsilver&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
+출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
