@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 ### Hi there 👋
 
 <!--
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunsilver)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
