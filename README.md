@@ -7,6 +7,6 @@
   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunsilver&layout=compact&bg_color=4B79A1&title_color=fff&text_color=fff">
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunsilver&theme=react-dark&bg_color=white&theme=material-palenight&hide_border=true&line=58A6FF&color=4B79A1" width=85%/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunsilver&theme=react-dark&bg_color=white&theme=material-palenight&hide_border=true&line=58A6FF&color=4B79A1" width=90%/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:43C6AC,100:F8FFAE)
