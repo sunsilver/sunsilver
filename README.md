@@ -3,7 +3,7 @@
 ## STATUS
 
 <p>
-  <img height="180em" width="470em" src="https://github-readme-stats.vercel.app/api?username=sunsilver&show_icons=true&include_all_commits=true&bg_color=4B79A1&title_color=fff&text_color=fff">
+  <img height="180em" width="470em" src="https://github-readme-stats.vercel.app/api?username=sunsilver&include_all_commits=true&bg_color=4B79A1&title_color=fff&text_color=fff">
   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunsilver&layout=compact&bg_color=4B79A1&title_color=fff&text_color=fff">
 </p>
 
